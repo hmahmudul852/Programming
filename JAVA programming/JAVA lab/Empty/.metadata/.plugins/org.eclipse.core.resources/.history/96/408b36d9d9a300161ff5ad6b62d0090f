@@ -1,0 +1,12 @@
+public class Main 
+{
+	public static void main(String[] args) 
+	{
+		Empty e=new Empty();
+	
+		System.out.println(e.getClass());
+		
+		System.out.println(e.hashCode());
+		
+	}
+}
